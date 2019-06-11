@@ -10,6 +10,7 @@ public class DemoWorkingWithEdge {
 		wc.getTitleOfThePage();
 		wc.closeBrowser();
 
+		//adding comment on github
 	}
 
 }
